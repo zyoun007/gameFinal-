@@ -1,0 +1,9 @@
+You find a mysterious item on the table called Taxes from King George which grants +1 roll in attacks. 
+
+You found nothing else on the table. It is time for you to continue your quest. 
+
+Below are your options: 
+
+1) Open the left door 
+2) Open the right door
+3) Flea

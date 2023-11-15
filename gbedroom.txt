@@ -1,0 +1,13 @@
+
+
+You enter what looks like a bedroom(4). 
+There is a door to the left of the room 
+There is a chest in the back of the room, next to the bed. 
+It looks like it may require a key. 
+
+Your options are below: 
+
+1) Search the bedroom 
+2) Exit back to (2) 
+3) Attempt to open the chest 
+

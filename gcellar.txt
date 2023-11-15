@@ -1,0 +1,14 @@
+
+
+You enter the cellar(5).
+It's dark and mostly void of objects. 
+Apart from the one the one: Gryla
+Wait, in front of you! Grÿla stands!
+Gryla looks unwell but can still do a load of damage. 
+You must act quickly. 
+
+Your options are below: 
+1) Attack Grÿla 
+2) Persuade Grÿla 
+3) Cure Grÿla 
+

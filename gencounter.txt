@@ -1,0 +1,13 @@
+
+
+You peak through the window and see a dark interior (2) with a messy table, and two doorways that lead further to the back of the hut. 
+One of the doors goes to the right, and the other goes to the left. 
+There are no windows, and everything is shrouded in darkness. 
+
+Below are your options: 
+
+1) Open the left door 
+2) Open the right door
+3) Flea
+4) Search the table
+

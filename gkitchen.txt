@@ -1,0 +1,13 @@
+
+
+You enter a kitchen (3). 
+It has a small fireplace in one corner with a small fire burning, which suggests someone was here recently. 
+There's a small staircase in the corner of the room, which travels down. 
+There is also a door on the right side of the room that leads to another room. 
+
+Your options are below: 
+1) Search the room 
+2) Go down the stairs 
+3) Leave to (2) 
+
+
