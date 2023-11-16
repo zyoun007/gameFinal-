@@ -27,8 +27,7 @@ while True:
 
     settingInput = input('Please respond with a corresponding number:')
     if settingInput == "2":
-                         print('Instead of facing your fears, you run, forever to be tormented by both Grÿla and your poor decision making.')
-                         print()
+                         print('Instead of facing your fears, you run, forever to be tormented by both Grÿla and your poor decision making.\n')
                          print('--> If you would like to try again after running away, please press "r"<--')
                          print('--> If you would like to quit, press "x" <--') 
                          restartQuit = input()
@@ -83,8 +82,7 @@ while True:
                                  if entrywayInput == "2":
                                      print('You opened the right door')
                                  if entrywayInput == "3":
-                                     print('After adventuring into the hut, you decided to end your trip. You leave to be forever tormented by both Grÿla and your poor decision making.')
-                                     print()
+                                     print('After adventuring into the hut, you decided to end your trip. You leave to be forever tormented by both Grÿla and your poor decision making.\n')                                  
                                      print('--> If you would like to try again after running away, please press "r"<--')
                                      print('--> If you would like to quit, press "x" <--') 
                                      userInput = input() 
@@ -97,8 +95,7 @@ while True:
                                          print()
                                          print()
                                          print('--> That input is not understood, would you like to restart from the beginning <--')
-                                         print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-                                         print()
+                                         print('--> Press "r" to restart from checkpoint or "x" to quit <--'\n)
                                          userInput = input()
                                          if userInput == "x":
                                                  quit()
@@ -110,8 +107,7 @@ while True:
          print()
          print()
          print('--> That input is not understood, would you like to restart from the beginning <--')
-         print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-         print()
+         print('--> Press "r" to restart from checkpoint or "x" to quit <--\n')
          userInput = input()
          if userInput == "x":
              quit()
@@ -121,8 +117,7 @@ while True:
              print()
              print()
              print('--> That input is not understood, would you like to restart from the beginning <--')
-             print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-             print()
+             print('--> Press "r" to restart from checkpoint or "x" to quit <--\n')
              userInput = input()
              if userInput == "x":
                  quit()
@@ -130,10 +125,8 @@ while True:
                  continue
              else:
                  print()
-                 print('Ok, hopefully, third time is the charm for you. Now please:')
-                 print()
-                 print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-                 print()
+                 print('Ok, hopefully, third time is the charm for you. Now please:\n')
+                 print('--> Press "r" to restart from checkpoint or "x" to quit <--\n')
                  userInput = input()
                  if userInput == "x":
                      quit()
@@ -142,9 +135,7 @@ while True:
                  else:
                      print()
                      print('No, there is no secret code built into this. Stop searching.')
-                     print()
-                     print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-                     print()
+                     print('--> Press "r" to restart from checkpoint or "x" to quit <--\n') 
                      userInput = input()
                      if userInput == "x":
                          quit()
@@ -154,7 +145,6 @@ while True:
                          print()
                          print('Oh, you want a secret, do you? Do it again, see what happens.')
                          print('--> Press "r" to restart from checkpoint or "x" to quit <--')
-                         print()
                          userInput = input()
                          if userInput == "x":
                              quit()
@@ -227,8 +217,7 @@ while True:
         if bedroomInput == "2":
             print('Exit back to the EntryWay (2)')
         if bedroomInput == "3":
-            print ('You attempted to open the chest, but surprise surprise, a key is required.')
-            print()
+            print ('You attempted to open the chest, but surprise surprise, a key is required.\n')
             while bedroomInput =="3":
                 path = 'gbedroom.txt'
                 infile = open(path, 'r')
@@ -494,7 +483,6 @@ while True:
 
 # Hey Tim, here's my notes for what happeened. So, I think I messed something up with the keywords for the bedroom. It still technically functions, but I don't know the rythme nor the reason
 #The main path works of 112 and the rest. I hope. I made the game even more linear.
-#I spent the better half of the last week trying to correctly use while loops. I failed many more times than I succeded. I ended up just repeating the options by using if, elif, and else statements. I don't know if that was
+#I spent the better half of the last week trying to correctly use while loops. I seemingly couldn't make it work consistently, and I guess decided to not ask. I ended up just repeating the options by using if, elif, and else statements. I don't know if that was
 #the only way to do it with our options or if I unnecessarily made my process of creation even longer. I think a lot of my issues came between this and my intentation issues, I would love to solve these issues however, I've exhausted my understanding of while loops, for loops,
-#and my taped on option of using if statements. I could continue rambling, but I don't think it's really providing insight to my chaos. Getting sick sucks, that's the moral. 
-
+#and my taped on option of using if statements. I could continue rambling, but I don't think it's really providing insight to my chaos.
