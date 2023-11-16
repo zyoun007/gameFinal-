@@ -438,9 +438,9 @@ while True:
                 print(readFile)
                 restartQuit = input()
                 if restartQuit == "1":
-                    quit()
+                    continue
                 if restartQuit == "2":
-                   continue
+                    quit()
 
             if grylaAlive == False:
                 path = 'Gryladefeated.txt'
